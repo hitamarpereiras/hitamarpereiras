@@ -5,7 +5,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itamar-silva-685a69325)
 [![linkedin](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://#)
 
-[![Hitamar Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=hitamarpereiras&show_icons=true&theme=radical)
+![Hitamar Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=hitamarpereiras&show_icons=true&theme=radical)
 
 ## Tecnologias que uso nos projetos 🖥️
 
