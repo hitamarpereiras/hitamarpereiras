@@ -6,6 +6,8 @@
 [![linkedin](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://#)
 
 ![Hitamar Silva GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitamarpereiras&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitamarpereirasshow_icons=true&theme=tokyonight&cache_seconds=1800)
+
 
 ## Tecnologias que uso nos projetos 🖥️
 
