@@ -46,20 +46,17 @@
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://iconscout.com/icons/docker" 
-/>
-<img 
-    align="left" 
     alt="CSS"
     title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+<a href="https://iconscout.com/icons/docker" class="text-underline font-size-sm" target="_blank">estivador</a> by <a href="https://iconscout.com/pt/contributors/icon-mafia/:assets" class="text-underline font-size-sm" target="_blank">Icon Mafia</a>
+
+
+
 <img 
     align="left" 
     alt="Python"
